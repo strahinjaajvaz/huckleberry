@@ -24,7 +24,6 @@ header {
 .intro-chunk {
   margin-bottom: 48px;
   max-width: 300px;
-  padding: 0 16px;
 }
 
 h1 {
@@ -44,6 +43,7 @@ main {
 .card {
   background-color: hsl(0deg, 0%, 100%);
   padding: 16px;
+  margin: -16px;
   border-bottom: 5px solid hsl(0deg, 0%, 30%);
 }
 
